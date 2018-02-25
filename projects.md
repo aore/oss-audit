@@ -11,5 +11,5 @@
 ### Issue labeling
 ### Pull request process
 ### Testing best practices
-### Continiuous integration
+### Continuous integration
 ### Style guides
